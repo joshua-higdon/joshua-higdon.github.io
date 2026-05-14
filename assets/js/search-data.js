@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/HigdonCVMay26.pdf";
+            window.location.href = "/assets/pdf/HigdonCV.pdf";
           },
         },{id: "nav-publications",
           title: "publications",
