@@ -1,10 +1,10 @@
 ---
 layout: cv
-permalink: /assets/pdf/HigdonCVMay26.pdf
+permalink: /assets/pdf/HigdonCV.pdf
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: HigdonCVMay26.pdf # you can also use external links here
+cv_pdf: HigdonCV.pdf # you can also use external links here
 description:
 toc:
   sidebar: left
