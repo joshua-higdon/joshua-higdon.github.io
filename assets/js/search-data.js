@@ -405,10 +405,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-just-presented-my-poster-at-quasy-at-syntaxfest-my-research-conducted-with-dr-zoey-liu-and-ma-valeria-pagliai-used-computational-methods-to-analyze-spanish-english-code-switching-in-three-bilingual-corpora-feel-free-to-check-out-our-proceedings-paper-to-learn-more",
+            },},{id: "news-i-just-presented-my-poster-at-quasy-at-syntaxfest-my-research-conducted-with-dr-zoey-liu-and-ma-valeria-pagliai-used-computational-methods-to-analyze-spanish-english-code-switching-in-three-bilingual-corpora-feel-free-to-check-out-our-proceedings-paper-to-learn-more",
           title: 'I just presented my poster at QUASY at SyntaxFest! My research, conducted with...',
           description: "",
           section: "News",},{id: "news-i-am-honored-to-have-received-the-whitney-koonce-memorial-award-a-memorial-award-awarded-to-a-graduate-student-that-has-demonstrated-tenacity-and-kindness-during-their-time-at-the-university-of-florida-at-the-spanish-and-portuguese-studies-awards-ceremony-i-am-incredibly-appreciative-of-the-koonce-family-s-generosity-and-my-department-for-awarding-me-such-a-prestigious-award",
