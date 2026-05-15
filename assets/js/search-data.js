@@ -422,9 +422,9 @@ ninja.data = [{
           description: "Image credit-Spanish Grammar in Context",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-person-agreement-across-the-preterite-and-present-perfect-tenses-in-spanish-heritage-speakers",
+          title: 'Person agreement across the preterite and present perfect tenses in Spanish heritage speakers...',
+          description: "Image credit-Baselang",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
