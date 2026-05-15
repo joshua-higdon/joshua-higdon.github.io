@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Regularity effects on Spanish heritage speakers' subjunctive production and comprehension
 img: assets/img/subjuntivo.png
 description: Image credit-Spanish Grammar in Context
 importance: 1
