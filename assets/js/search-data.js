@@ -405,7 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-just-presented-my-poster-at-quasy-at-syntaxfest-my-research-conducted-with-dr-zoey-liu-and-ma-valeria-pagliai-used-computational-methods-to-analyze-spanish-english-code-switching-in-three-bilingual-corpora-feel-free-to-check-out-our-proceedings-paper-to-learn-more",
+            },},{id: "news-i-just-attended-the-college-of-liberal-arts-and-sciences-clas-graduate-ta-awards-ceremony-where-i-was-honored-as-a-graduate-ta-of-the-year-each-year-clas-selects-only-20-of-the-best-tas-across-all-of-the-college-of-liberal-arts-and-sciences-and-i-am-very-appreciative-that-my-dedication-to-teaching-excellence-has-been-recognized-special-thanks-to-dr-jennifer-wooten-for-the-excellent-teaching-training-and-guidance-that-she-has-provided-me-over-the-years",
+          title: 'I just attended the College of Liberal Arts and Sciences (CLAS) Graduate TA...',
+          description: "",
+          section: "News",},{id: "news-i-just-presented-my-poster-at-quasy-at-syntaxfest-my-research-conducted-with-dr-zoey-liu-and-ma-valeria-pagliai-used-computational-methods-to-analyze-spanish-english-code-switching-in-three-bilingual-corpora-feel-free-to-check-out-our-proceedings-paper-to-learn-more",
           title: 'I just presented my poster at QUASY at SyntaxFest! My research, conducted with...',
           description: "",
           section: "News",},{id: "news-new-publication-the-paper-that-i-have-co-written-with-ma-hannah-treadway-and-dr-jorge-valdés-kroff-is-officially-published-we-examined-how-l2-spanish-learners-process-light-verb-code-switches-such-as-hice-drink-the-coffee-that-are-uncommon-in-florida-to-investigate-how-passive-exposure-to-spanish-english-code-switching-may-affect-their-processing-of-light-verb-code-switches-special-thanks-to-hannah-for-welcoming-me-onto-this-project",
