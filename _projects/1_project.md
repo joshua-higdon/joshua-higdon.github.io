@@ -1,81 +1,24 @@
 ---
 layout: page
 title: project 1
-description: with background image
-img: assets/img/12.jpg
+img: assets/img/subjuntivo.png
+description: Image credit-Spanish Grammar in Context
 importance: 1
-category: work
-related_publications: true
+category: finished
+related_publications: false
 ---
+Literature on heritage Spanish speakers' oral production of Spanish has claimed that heritage speakers' use of particular linguistic properties, such as the Spanish subjunctive, is highly variable and that some heritage speakers have "lost" the Spanish subjunctive or have "never fully acquired" the Spanish subjunctive. Despite this, recent work has found that heritage speakers systematically use the subjunctive in expected contexts (_para que_ "so that") while avoiding the subjunctive mood in unexpected contexts (_porque_ 'because'). 
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The present project investigated how **morphological regularity**, or the degree to which a verb inflection can be derived from its infinitive (i.e., correr-corra 'to run-run 'being regular; salir-salga 'to go out-go out' being irregular) affects Spanish heritage speakers' **oral production** of the subjunctive mood. To accomplish this, we asked the following questions:
+1. Do heritage speakers demonstrate variability in their subjunctive use/understanding in obligatory contexts (i.e., _quiero que_ 'I want that')?
+2. If participants do demonstrate such variability, is it modulated by **Spanish proficiency** and/or **morphological variability**?
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project found that with **irregular verbs** in the Spanish subjunctive, participants systematically **produced the subjunctive** in expected contexts and **preferred** sentences containing the subjunctive in expected contexts, while not producing and not preferring the subjunctive in unexpected contexts. However, with **regular verbs**, participants behaved less categorically; although one-fourth of participants produced the subjunctive in expected contexts **categorically with regular verbs**, the remaining three-fourths either **variabily** used the subjunctive in such contexts with regular verbs or categorically **avoided** the subjunctive with regular verbs. Although participants who categorically used the subjunctive with regular verbs had higher proficiency than those who categorically avoided the subjunctive, participants who categorically avoided the subjunctive with regular verbs were more likely to have taken Spanish classes than those who variably used the subjunctive with regular verbs. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+These findings contradict previous claims that Spanish heritage speakers have "lost" the Spanish subjunctive by demonstrating that their representations of the subjunctive is largely systematic and governed by factors such as morphological variability.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+-Project concluded- [Co-authored manuscript](https://onlinelibrary.wiley.com/doi/full/10.1111/lang.12489) published in _Language Learning_
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+I participated in this project as an undergraduate research assitant under the guidance and support of [Dr. David Giancaspro](https://lalis.richmond.edu/faculty/dgiancas/) and [Dr. Silvia Perez Cortes](https://wlc.camden.rutgers.edu/faculty/silvia-perez-cortes/).
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
