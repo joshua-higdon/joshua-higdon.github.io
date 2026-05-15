@@ -405,16 +405,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-am-honored-to-have-received-the-whitney-koonce-memorial-award-a-memorial-award-awarded-to-a-graduate-student-that-has-demonstrated-tenacity-and-kindness-during-their-time-at-the-university-of-florida-at-the-spanish-and-portuguese-studies-awards-ceremony-i-am-incredibly-appreciative-of-the-koonce-family-s-generosity-and-my-department-for-awarding-me-such-a-prestigious-award",
+          title: 'I am honored to have received the Whitney Koonce Memorial Award, a memorial...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
