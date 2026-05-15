@@ -1,16 +1,23 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Person agreement across the preterite and present perfect tenses in Spanish heritage speakers
+description: Image credit-Baselang
+img: assets/img/pasado.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: finished
 ---
+Previous research has documented that Spanish heritage speakers occasionally extend **third-person** verb inflections (i.e., *comió* 'he/she/they<sub>SING</sub> ate') to **first-person** subjects (i.e., *yo comió* 'I ate <sub>3PS</sub>'). Although Spanish heritage speakers have been shown to use third-person inflections for first-person subjects in a variety of verb tenses, there has been no research that has examined this trend across verb tenses as to provide possible explanations of this extension. This project compares Spanish heritage speakers' production and comprehension of first- and third-person verb inflections across the preterite (i.e., _yo comí_, 'I ate') and present perfect (i.e., _he comido_, 'I have eaten') tenses. Given that the preterite tense is relatively more frequent than the present perfect tense, this project investigated if the frequency of use of certain verb tenses impacts heritage speakers' use and understanding of verb forms.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The project was guided by the following questions:
+1. Do Spanish heritage speakers produce and/or comprehend sentences containing third-person verb inflections with first-person subjects?
+2. Do Spanish heritage speakers produce and/or comprehend this extension at higher rates with the less frequent present perfect tense relative to the more frequent preterite tense?
+
+This project found that when speaking, heritage speakers extend third-person inflections to first person subjects at a **mucher higher rate** with the **present perfect tense** (i.e., *yo ha comido* 'I have<sub>3PS</sub> eaten') than the preterite tense (i.e., *yo comió*, 'I ate<sub>3PS</sub>'). This asymmetry in third-person extensions also **appeared in comprehension**. In the comprehension task, participants listened to recordings containing sentences with third-person verb inflections and indicated whether the sentence referenced a first-person subject, a third-person subject, or whether it was unclear. Participants determined that sentences containing third-person inflections could possibly **refer to a first-person subject** at a much higher rate in the **present perfect tense** relative to the **preterite tense**.
+
+Taken together, these findings indicate that the frequency of use of verb tenses impacts how Spanish heritage speakers understand and produce Spanish verb inflections, helping tell a more nuanced story about the factors that affect how heritage speakers use Spanish.
+
+-project concluded- [co-authored manuscript](https://www.degruyterbrill.com/document/doi/10.1515/shll-2024-2011/html) published in Studies in Hispanic and Lusophone Linguistics
+This project was conducted in collaboration with [Dr. David Giancaspro](https://lalis.richmond.edu/faculty/dgiancas/).
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
