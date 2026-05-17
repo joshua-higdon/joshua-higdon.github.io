@@ -8,17 +8,15 @@ email: j.higdon@ufl.edu # your email address
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social_ORCID: 
-  logo: /assests/img/ORCID.png
+custom_socials: 
+  logo: /assets/img/ORCID.png
   title: ORCID
   url: https://orcid.org/0000-0003-3196-6441
-
-custom_social_OSF:
-  logo: /assests/img/OSF-icon.png
+  
+  logo: /assets/img/OSF-icon.png
   title: OSF
   url: https://osf.io/z4syn/
 
-custom_social_linkedin:
-  logo: /assests/img/linkedin.png
+  logo: /assets/img/linkedin.png
   title: LinkedIn
   url: https://www.linkedin.com/in/josh-higdon-61897419b
