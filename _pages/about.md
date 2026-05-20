@@ -5,7 +5,7 @@ permalink: /
 subtitle: heritage Spanish speakers | bilingual language processing | lexical effects on processing
 
 profile:
-  align: right
+  align: left
   image: new-prof-pic.jpeg
   image_circular: false # crops the image to make it circular
  # more_info: >
