@@ -1,11 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
-title: # the website title (if blank, full name will be used instead)
-first_name: Josh
-middle_name: L.
-last_name: Higdon
+<center>
+title: Josh L. Higdon # the website title (if blank, full name will be used instead)
+<center>
 contact_note: >
  Want to get in touch? Feel free to send me an email!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
