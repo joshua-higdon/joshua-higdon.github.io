@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 <center>
-title: Josh L. Higdon # the website title (if blank, full name will be used instead)
-<center>
+title: <center>Josh L. Higdon # the website title</center> (if blank, full name will be used instead)
+
 contact_note: >
  Want to get in touch? Feel free to send me an email!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
