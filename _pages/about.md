@@ -2,8 +2,9 @@
 layout: about
 title: about
 permalink: /
+<center>
 subtitle: heritage Spanish speakers | bilingual language processing | lexical effects on processing
-
+</center>
 profile:
   align: left
   image: new-prof-pic.jpeg
