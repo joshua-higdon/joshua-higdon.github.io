@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+bundle update jekyll-socials
 gem 'jekyll'
 
 # Core plugins that directly affect site building
