@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-bundle update jekyll-socials
 gem 'jekyll'
 
 # Core plugins that directly affect site building
@@ -18,7 +17,7 @@ group :jekyll_plugins do
     gem 'jekyll-regex-replace'
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
-    gem 'jekyll-socials'
+    gem 'jekyll-socials', '0.0.7'
     gem 'jekyll-tabs'
     gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
     gem 'jekyll-toc'

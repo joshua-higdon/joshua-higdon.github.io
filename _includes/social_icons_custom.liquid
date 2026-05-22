@@ -1,0 +1,38 @@
+{%- comment -%}
+Custom social icons fallback using local images and an inline SVG for email.
+Renders common academic icons (ORCID, OSF, LinkedIn) from assets/img and an
+inline envelope SVG for email so icons display even if font icons fail.
+{%- endcomment -%}
+<div class="contact-icons">
+  {% if site.data.socials.email %}
+    <a href="mailto:{{ site.data.socials.email }}" title="Email">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="48" height="48" aria-hidden="true">
+        <path fill="currentColor" d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm0 4.5-8 5-8-5V6l8 5 8-5v2.5z"/>
+      </svg>
+    </a>
+  {% endif %}
+
+  {% if site.data.socials.orcid_id %}
+    <a href="https://orcid.org/{{ site.data.socials.orcid_id }}" title="Orcid id" rel="external nofollow noopener" target="_blank">
+      <img src="{{ '/assets/img/ORCID.png' | relative_url }}" alt="ORCID" />
+    </a>
+  {% endif %}
+
+  {% if site.data.socials.osf_id %}
+    <a href="https://osf.io/{{ site.data.socials.osf_id }}" title="Osf id" rel="external nofollow noopener" target="_blank">
+      <img src="{{ '/assets/img/OSF-icon.png' | relative_url }}" alt="OSF" />
+    </a>
+  {% endif %}
+
+  {% if site.data.socials.linkedin_username %}
+    <a href="https://www.linkedin.com/in/{{ site.data.socials.linkedin_username }}" title="Linkedin username" rel="external nofollow noopener" target="_blank">
+      <img src="{{ '/assets/img/linkedin.png' | relative_url }}" alt="LinkedIn" />
+    </a>
+  {% endif %}
+
+  {%- comment -%}
+  If you need additional socials rendered, add more conditionals here mapping
+  data keys in `_data/socials.yml` to image assets, or remove this file and
+  rely on `{% social_links %}` provided by the plugin.
+  {%- endcomment -%}
+</div>
