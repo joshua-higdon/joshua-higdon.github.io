@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Josh L. Higdon
 permalink: /
-subtitle: <center>heritage Spanish speakers | bilingual language processing | lexical effects on processing</center>
+subtitle: heritage Spanish speakers | bilingual language processing | lexical effects on processing
 
 profile:
   align: left
