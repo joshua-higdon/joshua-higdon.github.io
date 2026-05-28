@@ -57,12 +57,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-honored-to-have-received-the-whitney-koonce-memorial-award-a-memorial-award-awarded-to-a-graduate-student-that-has-demonstrated-tenacity-and-kindness-during-their-time-at-the-university-of-florida-at-the-spanish-and-portuguese-studies-awards-ceremony-i-am-incredibly-appreciative-of-the-koonce-family-s-generosity-and-my-department-for-awarding-me-such-a-prestigious-award",
           title: 'I am honored to have received the Whitney Koonce Memorial Award, a memorial...',
           description: "",
-          section: "News",},{id: "projects-regularity-effects-on-spanish-heritage-speakers-39-subjunctive-production-and-comprehension",
-          title: 'Regularity effects on Spanish heritage speakers&amp;#39; subjunctive production and comprehension',
-          description: "Image credit-Spanish Grammar in Context",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-a-corpora-based-analysis-of-directionality-and-part-of-speech-effects-on-spanish-english-code-switching-in-florida-and-texas",
+          section: "News",},{id: "projects-a-corpora-based-analysis-of-directionality-and-part-of-speech-effects-on-spanish-english-code-switching-in-florida-and-texas",
           title: 'A corpora-based analysis of directionality and part of speech effects on Spanish-English code-switching...',
           description: "",
           section: "Projects",handler: () => {
@@ -77,6 +72,11 @@ ninja.data = [{
           description: "Image credit-Baselang",
           section: "Projects",handler: () => {
               window.location.href = "/projects/presperf_project/";
+            },},{id: "projects-regularity-effects-on-spanish-heritage-speakers-39-subjunctive-production-and-comprehension",
+          title: 'Regularity effects on Spanish heritage speakers&amp;#39; subjunctive production and comprehension',
+          description: "Image credit-Spanish Grammar in Context",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/subj_project/";
             },},{
         id: 'social-email',
         title: 'email',
