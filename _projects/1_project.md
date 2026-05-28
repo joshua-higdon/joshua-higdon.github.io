@@ -3,7 +3,7 @@ layout: page
 title: Regularity effects on Spanish heritage speakers' subjunctive production and comprehension
 img: assets/img/subjuntivo.png
 description: Image credit-Spanish Grammar in Context
-importance: 1
+importance: 4
 category: finished
 related_publications: false
 ---
