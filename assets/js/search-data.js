@@ -71,7 +71,7 @@ ninja.data = [{
           title: 'A corpora-based analysis of directionality and part of speech effects on Spanish-English code-switching...',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/CS_project/";
             },},{id: "projects-the-role-of-exposure-to-spanish-english-code-switching",
           title: 'The role of exposure to Spanish-English code-switching',
           description: "",
