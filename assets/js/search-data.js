@@ -62,11 +62,6 @@ ninja.data = [{
           description: "Image credit-Spanish Grammar in Context",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-person-agreement-across-the-preterite-and-present-perfect-tenses-in-spanish-heritage-speakers",
-          title: 'Person agreement across the preterite and present perfect tenses in Spanish heritage speakers...',
-          description: "Image credit-Baselang",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-a-corpora-based-analysis-of-directionality-and-part-of-speech-effects-on-spanish-english-code-switching-in-florida-and-texas",
           title: 'A corpora-based analysis of directionality and part of speech effects on Spanish-English code-switching...',
           description: "",
@@ -77,6 +72,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Hannah_project/";
+            },},{id: "projects-person-agreement-across-the-preterite-and-present-perfect-tenses-in-spanish-heritage-speakers",
+          title: 'Person agreement across the preterite and present perfect tenses in Spanish heritage speakers...',
+          description: "Image credit-Baselang",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/presperf_project/";
             },},{
         id: 'social-email',
         title: 'email',
