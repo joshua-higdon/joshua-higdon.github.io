@@ -2,7 +2,7 @@
 layout: page
 title: A corpora-based analysis of directionality and part of speech effects on Spanish-English code-switching in Florida and Texas
 img: assets/img/CSlogo.jpg
-importance: 3
+importance: 2
 category: finished
 related_publications: false
 ---
