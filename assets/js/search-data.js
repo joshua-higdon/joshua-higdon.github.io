@@ -72,6 +72,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-the-role-of-exposure-to-spanish-english-code-switching",
+          title: 'The role of exposure to Spanish-English code-switching',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
