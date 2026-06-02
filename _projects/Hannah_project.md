@@ -1,25 +1,25 @@
 ---
 layout: page
-title: The role of exposure to Spanish-English code-switching
+title: Asymmetries in L2 Spanish learners' processing of Spanish-English code-switching
 img: assets/img/CS.jpg
 importance: 1
 category: finished
 related_publications: false
 ---
-Code-switching, or the rapid alternation from one language to another, is of particular interest to linguists because bilinguals can rapidly code-switch without causing any difficulties in communication. Previous research into Spanish-English code-switching has found that Spanish-English code-switchers from the southeastern United States demonstrate a robust preference for code-switches between the auxiliary verb *estar* and an English present participle (i.e., *estoy eating*) relative to switches between the light verb *hacer* and an English lexical infinitive (*hice eat*) despite the light verb switch being syntactically plausible. Similarly, studies on the processing of Spanish-English code-switching have determined that these bilinguals predict the grammatical gender of an upHowever, research on Spanish-English code-switching has largely ignored how late L2 learners of Spanish process Spanish-English code-switching, and if simply being exposed to but not necessarily participating in code-switching guides processing.
-1. The [Bangor Miami Corpus](https://bangortalk.org.uk/speakers.php?c=miami): oral corpus, created in Miami, FL, contains 242,475 words (34% Spanish, 63% English)
-2. The [Spanish in Texas Corpus](https://corpus.spanishintexas.org/): oral corpus, created in Austin, TX, contains approximately 500,000 words (96% Spanish, 4% English)
-3. The LinCe Corpus: written corpus, created in Austin, TX, contains 390,953 words (33% Spanish, 64% English)
+Code-switching, or the rapid alternation from one language to another, is of particular interest to linguists because bilinguals can rapidly code-switch without causing any difficulties in communication. Previous research into Spanish-English code-switching has found that Spanish-English code-switchers from the southeastern United States demonstrate a **robust preference** for code-switches between the auxiliary verb ***estar*** and an **English present participle** (i.e., *está eating*) relative to switches between the light verb ***hacer*** and an English **lexical infinitive** (*hizo eat*) despite the light verb switch being syntactically plausible. Similarly, studies on the processing of Spanish-English code-switching have determined that these bilinguals predict the identity of an English noun based on the grammatical gender of the Spanish determiner. This prediction occurs with switches containing **feminine** nouns (i.e., _la ball_) but not **masculine** nouns (i.e., _el bone_). Despite this wealth of research, research on Spanish-English code-switching has largely ignored how **late L2 learners of Spanish** process Spanish-English code-switching, and if simply being exposed to but not necessarily participating in code-switching guides processing.
+
+To investigate L2 Spanish learners' processing of Spanish-English code-switching, we conducted an eye-tracking while reading study. Participants read sentences containing switches **in between** the two verbs of the bilingual verb complex (_está eating_; _ha eaten_) and also **before** the first verb of the complex (...*is eating*; ...*have eaten*). Similarly, participants read sentences containing code-switches where the determiner and English translation equivalent had **congruent** grammatical gender (_la ball_, *el bone*) and **incongruent** grammatical gender (_el ball_, _la bone_). 
 
 This project was guided by the following research questions:
-1. To what degree is the preference for switching from Spanish to English found in the Bangor Miami Corpus attested in other corpora?
-2. To what degree are part of speech effects attested across corpora?
-3. If part of speech/directionality effects are found across corpra, do the appear differently in **written/oral corpora**?
+1. To what degree do late L2 Spanish learners demonstrate processing difficulties with light verb switches relative to progressive switches?
+2. To what degree do late L2 Spanish learners engage in prediction based on grammatical gender, and does this prediction occur solely with feminine determiners?
 
-This project found that **interjections and (proper) nouns** typically  **preceded** a code-switch. Additionally, **coordinating conjunctions** (i.e., but), **interjections**, and **nouns** typically followed code-switches. Lastly, this project found that although switching from **Spanish to English** was more common in the **Bangor Miami** and **LinCe** corpora, the **opposite** was true for the **Spanish in Texas Corpus**.n 
 
-These findings simultaneously **attest and question** the prevalence of Spanish to English code-switching found in the Bangor Miami corpus while also **discovering** part of speech trends (i.e., the prevalence of nouns preceding a code-switch and coordinating conjunctions following a code-switch) that were **previously unattested**. 
+This project found that **with bilingual verb switches**, participants processed light verb and progressive switches similarly with early reading measures but demonstrated difficulties processing the light verb switches in late processing measures. Additionally, participants experienced longer reading times in the spillover region (two words after the code-switch) with switches preceded by **masculine** but not **feminine** determiners, indicating that the prediction may have occurred with the feminine determiner. There were especially long reading times with incongruent code-switches with a masculine determiner (_el ball_). 
 
--Project concluded- [Co-authored manuscript](https://aclanthology.org/2025.quasy-1.11/)) published in the proceedings of QUASY hosted at SyntaxFest
+These findings highlight that being exposed to particular asymmetries in code-switching, like the reliability of feminine translation equivalents after *la* and switches occurring more frequently after progressive but not light verbs, is sufficient to guide L2 learners' processing. Put differently, one does not need to be a native Spanish speaker nor an active participant in code-switching to demonstrate processing aligned with these asymmetries.
 
-I led this project in collaboration with [Dr. Zoey Liu](https://zoeyliu18.github.io/) and [MA Valeria Pagliai](https://scholar.google.com/citations?user=Go0wFnEAAAAJ&hl=es)
+
+Project concluded- [Co-authored manuscript](https://revistes.uab.cat/isogloss/article/view/v11-n4-treadway-higdon-valdeskroff) published in the proceedings of Bilingualism in the Hispanic and Lusophone World 4
+
+I collaborated with [PhD Candidate Hannah Treadway](https://hannahtreadway.github.io/), who led the project, and [Dr. Jorge Valdés Kroff](https://people.clas.ufl.edu/jvaldeskroff/) on this project.
