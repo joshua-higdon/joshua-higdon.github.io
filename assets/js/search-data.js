@@ -62,8 +62,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CS_project/";
-            },},{id: "projects-the-role-of-exposure-to-spanish-english-code-switching",
-          title: 'The role of exposure to Spanish-English code-switching',
+            },},{id: "projects-asymmetries-in-l2-spanish-learners-39-processing-of-spanish-english-code-switching",
+          title: 'Asymmetries in L2 Spanish learners&amp;#39; processing of Spanish-English code-switching',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Hannah_project/";
